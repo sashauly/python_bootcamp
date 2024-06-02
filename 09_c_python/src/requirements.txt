@@ -1,0 +1,2 @@
+Cython==3.0.0
+setuptools==66.1.1
